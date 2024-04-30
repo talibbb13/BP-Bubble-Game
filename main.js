@@ -29,7 +29,7 @@ function tymer() {
              <div id="goInt">
              <h1>game over 😉</h1>
              <h2>score: ${score} 🎮</h2>
-             <a href="file:///E:/vscode/files/BP%20(Bubble%20Game)/index.html">play again 😀</a>
+             <a href="">Play again 😀</a>
          </div>
              `
         }
